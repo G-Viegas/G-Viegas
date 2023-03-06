@@ -6,8 +6,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=G-Viegas&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Viegas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Viegas&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Viegas&layout=compact&hide_border=true&title_color=8A2BE2&text_color=ff91a4&bg_color=0d1117" />]
+  
+  ![Snake animation](https://github.com/G-Viegas/G-Viegas/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-![Snake animation](https://github.com/G-Viegas/G-Viegas/blob/output/github-contribution-grid-snake.svg)
+
  
